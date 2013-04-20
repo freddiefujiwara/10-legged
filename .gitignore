@@ -6,3 +6,7 @@ vendor/evenement
 vendor/guzzle
 vendor/react
 ipadic/
+vendor/bin/
+vendor/mockery/
+vendor/phpunit/
+vendor/symfony/

@@ -1,0 +1,10 @@
+{
+    "name": "freddiefujiwara/10-legged",
+    "description": "Web Spider written by PHP.",
+    "keywords": ["spider"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.3",
+        "react/react": "0.3.*"
+    }
+}

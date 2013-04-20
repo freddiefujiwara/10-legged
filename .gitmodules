@@ -1,0 +1,3 @@
+[submodule "igo-php"]
+	path = vendor/igo-php
+	url = https://github.com/siahr/igo-php.git
